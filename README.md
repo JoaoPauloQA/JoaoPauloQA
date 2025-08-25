@@ -12,6 +12,8 @@ O que mais me motiva é a oportunidade de **entregar valor real** com cada bug i
 ![Teste Funcional](https://img.shields.io/badge/TESTE%20FUNCIONAL-blue?style=for-the-badge)
 ![Teste de Regressão](https://img.shields.io/badge/TESTE%20DE%20REGRESSÃO-purple?style=for-the-badge)
 ![Teste Exploratório](https://img.shields.io/badge/TESTE%20EXPLORATÓRIO-pink?style=for-the-badge)
+![Teste de Integração](https://img.shields.io/badge/TESTE%20DE%20INTEGRAÇÃO-orange?style=for-the-badge)
+![Teste de Aceitação](https://img.shields.io/badge/TESTE%20DE%20ACEITAÇÃO-darkgreen?style=for-the-badge)
 ![Testes de API](https://img.shields.io/badge/TESTES%20DE%20API-lightblue?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD%20(GHERKIN)-green?style=for-the-badge)
 
