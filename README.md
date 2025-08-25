@@ -29,8 +29,14 @@ O que mais me motiva é a oportunidade de **entregar valor real** com cada bug i
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge) 
 
+## Projetos em andamento 
+[Testes automatizados com cypress](https://github.com/JoaoPauloQA/testes-automatizados-com-cypress)
 
 Estou documentando tudo aqui no GitHub com foco em clareza, rastreabilidade e aprendizado contínuo. Em breve, novos repositórios com testes reais, relatórios e estratégias aplicadas.
+
+## Vamos conversar ? 
+
+[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-paulo-6a1b3a207/)
 
 
 📌 Este perfil está em constante evolução
