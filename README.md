@@ -37,10 +37,10 @@ O que mais me motiva é a oportunidade de **entregar valor real** com cada bug i
 Estou documentando tudo aqui no GitHub com foco em clareza, rastreabilidade e aprendizado contínuo. Em breve, novos repositórios com testes reais, relatórios e estratégias aplicadas.
 
 ## Sobre mim
-Buscando uma oportunidade como QA, com disposição para agregar valor desde o primeiro ciclo de desenvolvimento.
-Comunicação clara com desenvolvedores, times de produto e usuários, garantindo alinhamento e colaboração em cada entrega.
-Sou movido por uma mentalidade de aprendizado contínuo — estudar, aplicar e evoluir sempre. 
-Comprometido com testes que criam confiança no produto e evitam prejuízos reais
+-Buscando uma oportunidade como QA, com disposição para agregar valor desde o primeiro ciclo de desenvolvimento.
+-Comunicação clara com desenvolvedores, times de produto e usuários, garantindo alinhamento e colaboração em cada entrega.
+-Sou movido por uma mentalidade de aprendizado contínuo — estudar, aplicar e evoluir sempre. 
+-Comprometido com testes que criam confiança no produto e evitam prejuízos reais
 
 ## Vamos conversar ? 
 
