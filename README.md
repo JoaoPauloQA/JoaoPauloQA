@@ -40,7 +40,7 @@ O que mais me motiva é a oportunidade de **entregar valor real** com cada bug i
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge) 
 
 ## Projetos em andamento 
-[Cypress-Saucedemo-tests](https://github.com/JoaoPauloQA/cypress-saucedemo-tests)
+[REST-Assured-Automation](https://github.com/JoaoPauloQA/REST-Assured-Automation)
 
 Estou documentando tudo aqui no GitHub com foco em clareza, rastreabilidade e aprendizado contínuo. Em breve, novos repositórios com testes reais, relatórios e estratégias aplicadas.
 
